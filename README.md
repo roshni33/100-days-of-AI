@@ -14,9 +14,8 @@ Before we dive in, make sure you're comfortable with the following:
   - Scikit-learn
   - Seaborn
 
-## 📅 Day 1: Titanic Survival Prediction Project
+## 📅 Day 1: Project Details🛠️ 
 
-### 🛠️ Project Details  
 **Project Name**: Titanic Survival Prediction
 
 ### Topics Covered:

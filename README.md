@@ -14,10 +14,14 @@ Before we dive in, make sure you're comfortable with the following:
   - Scikit-learn
   - Seaborn
 
-## 📅 Day 1: Project Details🛠️ 
+## 📅 Day 1: Titanic Survival Prediction🛠️ 
 
-**Project Name**: Titanic Survival Prediction
+### 🎥 Learning Resources  
+- **YouTube Video I Followed**: [Click Here](#)  
+- **🔗 Code Repository**: [Click Here](#)
 
+
+## 📅 Day 2: Titanic Survival Prediction🛠️ 
 
 ### 🎥 Learning Resources  
 - **YouTube Video I Followed**: [Click Here](#)  

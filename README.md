@@ -18,14 +18,14 @@ Before we dive in, make sure you're comfortable with the following:
 
 ### 🎥 Learning Resources  
 - **YouTube Video I Followed**: [Click Here](https://youtu.be/Lgp14y9-U74?si=Zr39oeY4ALYQg7LV)  
-- **🔗 Code Repository**: [Click Here]()
+- **🔗 Code Repository**: [Click Here](https://github.com/roshni33/100-days-of-AI/tree/main)
 
 
 ## 📅 Day 2: Boston House Price Prediction🛠️ 
 
 ### 🎥 Learning Resources  
 - **YouTube Video I Followed**: [Click Here](https://youtu.be/fw5rkjq4Tfo?si=mSq6Fnlr4dPThdYM)  
-- **🔗 Code Repository**: [Click Here](#)
+- **🔗 Code Repository**: [Click Here](https://github.com/roshni33/100-days-of-AI/tree/main)
 
 
 

@@ -29,9 +29,11 @@ some important columns which are used to predict the output:
 - Handling missing values
 - Handling imbalanced Dataset
 - Feature Engineering
+  
 **Model Training**
 - Random Forest
 - K-Nearest Neighbours
+  
 **Evaluation Metrics**
 - Accuracy
 - Precision

@@ -36,7 +36,7 @@ Before we dive in, make sure you're comfortable with the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 6,7:** **Accenture Interview Preparation** 🛠️  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 8:** ** Interview** 🛠️ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 8:** **Interview** 🛠️ 
 
 ### Intermediate Projects
 

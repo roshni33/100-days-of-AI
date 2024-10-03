@@ -1,7 +1,5 @@
 # 🛍️ Customer Segmentation Project README 📊
 
----
-
 ## **🔍 Overview**
 
 This project uses **K-means clustering** to group customers based on their annual income and spending habits. The goal is to understand customer behavior and create different customer segments for targeted marketing.

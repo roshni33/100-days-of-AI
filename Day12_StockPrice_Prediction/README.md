@@ -5,7 +5,6 @@ This project aims to **predict stock prices** using historical market data. It l
 
 This is a **time-series data** project where each data point is associated with a specific point in time, such as daily, weekly, or monthly intervals.
 
----
 
 ## 📊 Dataset Columns and Description
 | Column         | Description                                                                 |
@@ -18,7 +17,6 @@ This is a **time-series data** project where each data point is associated with 
 | `Volume`       | The number of shares traded during the session.                              |
 | `Adjusted Close`| The stock’s closing price adjusted for dividends and stock splits.           |
 
----
 
 ## 🛠️ Steps Involved
 
@@ -48,14 +46,12 @@ This is a **time-series data** project where each data point is associated with 
 - **Random Forest Regressor**: An ensemble method using multiple decision trees.
 - **Support Vector Regressor (SVR)**: A kernel-based regression technique to capture nonlinear relationships.
 
----
+
 
 ## 📏 Model Evaluation
 - **Mean Squared Error (MSE)**: Measures the average squared difference between the predicted and actual values.
 - **Mean Absolute Error (MAE)**: Measures the average absolute difference between predicted and actual values.
 - **R-squared Score**: Indicates the proportion of variance in the dependent variable that is predictable from the independent variables.
-
----
 
 
 ## 🎯 Key Features

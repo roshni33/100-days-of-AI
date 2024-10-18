@@ -72,6 +72,9 @@ Before we dive in, make sure you're comfortable with the following:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 26:** **Project 3: Data-driven Business Insights Dashboard** 🛠️  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Similar to Project 2, skipping to save time and focus on new challenges
 
+## 📅 Machine Learning
+
+### Beginner Projects
 
 
 ## 📈 Daily Updates

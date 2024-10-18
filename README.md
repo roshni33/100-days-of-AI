@@ -77,6 +77,8 @@ Before we dive in, make sure you're comfortable with the following:
 ### Beginner Projects
 
 
+
+
 ## 📈 Daily Updates
 I will be updating each project day-wise to keep things manageable and inspiring! Follow along for insights, challenges, and breakthroughs as I tackle various projects throughout this challenge.
 

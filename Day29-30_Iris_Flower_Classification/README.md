@@ -43,6 +43,7 @@ The Jupyter notebook `Iris_Flower_classification.ipynb` contains the following k
 4. **Save the model for deployment purposes**
 5. **connecting to web interface using flask**
 6. **deploying the model using AWS EC2 Instance**
+(Public Url - http://13.60.250.250:5000/)
 (had some deployment to deal with)
 
 

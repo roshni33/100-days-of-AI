@@ -84,6 +84,11 @@ Welcome to the **Content-Based Movie Recommendation System**! This project is de
 
 ---
 
+## 👀**Must Watch It - **
+🔗 [Click here](https://youtu.be/n3RKsY2H-NE?si=b9jl3DnNX-Q3QpkC)
+
+---
+
 ## 🌟 **Future Improvements**
 
 - **Frontend Deployment**: Connect the recommendation model to a user-friendly interface to enhance usability.

@@ -37,7 +37,7 @@ Welcome to the **Content-Based Movie Recommendation System**! This project is de
 2. **Loading Dataset**: Load the movie dataset using Pandas.
 3. **Feature Selection**: Focus on 5 main features: **genre**, **title**, **keywords**, **cast**, and **director**.
 4. **Preprocessing**: Replace missing values with empty strings.
-5. **Feature Extraction**: Convert textual data into numerical vectors using **TF-IDF**.
+5. **Feature Extraction**: Convert textual data into numerical vectors using **TF-IDF** **(ohter ways - count vectorization(Bag of Words),Word Embeddings-word2vec,Glove,FastText)**
 6. **Cosine Similarity**: Calculate similarity between movies based on their feature vectors.
 7. **User Input**: Accept the movie name as input from the user.
 8. **Movie Existence Check**: Ensure the movie is in the dataset and find its index.
